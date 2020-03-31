@@ -1,5 +1,5 @@
 {
-    "name": "odolbeau/phone-number-bundle",
+    "name": "cloudifi/phone-number-bundle",
     "type": "symfony-bundle",
     "description": "Integrates libphonenumber into your Symfony application",
     "keywords": ["bundle", "phone-number", "phonenumber", "telephone number", "libphonenumber"],
